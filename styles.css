@@ -1,0 +1,21 @@
+table{
+  border-spacing: 30px;
+}
+.thisoneonly {
+  text-align: center;
+}
+hr{
+  border-width: 3px;
+}
+span{
+  text-decoration: underline;
+}
+.footer{
+  display: inline-block;
+  margin-left: 480px;
+  text-align: center;
+  color: white;
+  background-color: grey;
+  border-radius: 2px;
+  padding: 5px;
+}
